@@ -1,0 +1,2 @@
+f:\code\cpp_study\macro\macro.cpp: Line 77:	hello,log
+f:\code\cpp_study\macro\macro.cpp: Line 78:	hello
